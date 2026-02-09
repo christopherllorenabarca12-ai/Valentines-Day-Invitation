@@ -55,7 +55,7 @@
 <body>
 
 <div class="overlay">
-  <h1>💖 Fiona Erica Z. Complitado Will you be my Valentine’s date? 💖</h1>
+  <h1>💖 Fiona Erica Z. Complitado, would you do me the honor of being my Valentine’s date? 💖</h1>
   <button id="yes">YES 💌</button>
   <button id="no">NO 🙈</button>
 </div>
